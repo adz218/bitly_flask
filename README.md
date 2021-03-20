@@ -2,7 +2,7 @@
 This project requires Python 3 with the module `venv` installed.
 
 ```
-$ cd flask_app
+$ cd bitly_flask
 $ python3 -m venv venv
 
 On Windows:
